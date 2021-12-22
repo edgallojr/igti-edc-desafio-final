@@ -1,10 +1,7 @@
 igti-edc-desafio-final
-# IGTI MBA em Engenharia de Dados
 ## Bootcamp - Engenheiro de dados Cloud
-## Módulo 5 - Desafio Final
-## Professor - Neylson Crepalde
-## Aluno - Anderson E Santo
-***
+## Desafio Final
+
 ### Objetivos
 Exercitar os seguintes conceitos trabalhados no Curso:  
 - Kubernetes.
