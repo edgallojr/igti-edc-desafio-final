@@ -1,4 +1,3 @@
-igti-edc-desafio-final
 ## Bootcamp - Engenheiro de dados Cloud
 ## Desafio Final
 
